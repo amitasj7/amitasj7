@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Amit Sisodiya. Thank You for visiting my profile</h1>
+<h1 align="center">Hi 👋, I'm Amit Sisodiya. THANK YOU for visiting my profile</h1>
 <h3 align="center">Flutter Developer & Problem Solver || Crafting Seamless Solutions</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/amitasj7](https://github.com/amitasj7)
 
 - 📫 How to reach me **amitasj7570@gmail.com**
+
+- ⚡ Fun fact **Nothing. I am Serious.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
