@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amit Sisodiya. THANK YOU for visiting my profile</h1>
+<h1 align="center">Hi 👋, I'm Amit Sisodiya. Thank You for visiting my profile</h1>
 <h3 align="center">Flutter Developer & Problem Solver || Crafting Seamless Solutions</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/amitasj7](https://github.com/amitasj7)
