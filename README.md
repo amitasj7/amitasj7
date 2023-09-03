@@ -1,5 +1,5 @@
 ![logo](https://github.com/amitasj7/amitasj7/blob/master/9.png)
-<h1 align="center">Hi 👋, I'm Amit Sisodiya. Thank You for visiting my profile</h1>
+<h1 align="center">Hi 💫, I'm Amit Sisodiya. Thank You for visiting my profile</h1>
 <h3 align="center">Flutter Developer & Problem Solver || Crafting Seamless Solutions</h3>
 
 
