@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Amit Sisodiya. THANK YOU for visiting my profile</h1>
+![logo](https://github.com/amitasj7/amitasj7/blob/master/9.png)
+<h1 align="center">Hi 👋, I'm Amit Sisodiya. Thank You for visiting my profile</h1>
 <h3 align="center">Flutter Developer & Problem Solver || Crafting Seamless Solutions</h3>
+
+<img align="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/09/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/amitasj7](https://github.com/amitasj7)
 
