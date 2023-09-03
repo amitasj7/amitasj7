@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **amitasj7570@gmail.com**
 
-- ⚡ Fun fact **Nothing. I am Serious.**
+- ⚡ Fun fact **: Nothing. I am Serious.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
