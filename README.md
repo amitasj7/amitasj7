@@ -19,7 +19,7 @@
 <a href="https://instagram.com/amit.asj.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amit.asj.7" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/amit_asj_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amit_asj_7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/amit_asj_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amit_asj_7/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/amitsisodiyajadaun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amitsisodiyajadaun/" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/studio/profile/bdf237b0-84ba-48d9-961a-7c10d8ec83db" target="blank"><img align="center" src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/1323/original/Coding_Ninjas_logo.jpeg" alt="amitsisodiyajadaun/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
