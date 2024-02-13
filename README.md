@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" height="200" src="https://www.careerguide.com/career/wp-content/uploads/2021/09/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif">
 
-- 👨‍💻 All of my projects are available  at  ([ All Github Repository ](https://github.com/amitasj7?tab=repositories))
+- 👨‍💻 All of my projects are  available  at  ([ All Github Repository ](https://github.com/amitasj7?tab=repositories))
 
 - 📫 How to reach me **amitasj7570@gmail.com**
 - day 1
