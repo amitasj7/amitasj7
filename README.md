@@ -3,7 +3,9 @@
 <h3 align="center">Full Stack Developer && Flutter Developer</h3>
 
 
-<img align="right" alt="coding" width="400" height="200" src="https://www.careerguide.com/career/wp-content/uploads/2021/09/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif">
+
+
+<img align="right" alt="coding" width="600" height="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/tenor.gif">
 
 - 📫 How to reach me **amitasj7570@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitasj7&label=Profile%20views&color=0e75b6&style=flat" alt="amitasj7" /> </p>
