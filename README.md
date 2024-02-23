@@ -1,15 +1,11 @@
 
 <h1 align="center">Hi 💫, I'm Amit Sisodiya. Thank You for visiting my profile</h1>
-<h3 align="center">Full Stack Web, Flutter Developer & Problem Solver || Crafting Seamless Solutions</h3>
+<h3 align="center">Full Stack Developer && Flutter Developer</h3>
 
 
 <img align="right" alt="coding" width="400" height="200" src="https://www.careerguide.com/career/wp-content/uploads/2021/09/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif">
 
-- 👨‍💻 All of my projects are  available  at  ([ All Github Repository ](https://github.com/amitasj7?tab=repositories))
-
 - 📫 How to reach me **amitasj7570@gmail.com**
-- day 1
-- ⚡ Fun fact **: Nothing. I am  Serious.**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitasj7&label=Profile%20views&color=0e75b6&style=flat" alt="amitasj7" /> </p>
 <h3 align="left">Connect  with me:</h3>
 <p align="left">
