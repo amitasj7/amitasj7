@@ -9,7 +9,7 @@
 
 - 📫 How to reach me mail ID : amitasj7570@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitasj7&label=Profile%20views&color=0e75b6&style=flat" alt="amitasj7" /> </p>
-<h3 align="left">Connect  with  
+<h3 align="left">Connect with  
   me:</h3>
 <p align="left">
 
