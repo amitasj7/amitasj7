@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 💫, I'm Amit Sisodiya. </h1>
-<h3 align="center">Full-Stack Developer in MERN  && Mobile App  developemnt using  Flutter</h3>
+<h3 align="center">Full-Stack Developer in MERN  && Mobile App developemnt using  Flutter</h3>
 
 
 
