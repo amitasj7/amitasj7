@@ -50,15 +50,6 @@ Languages - <br><br>
   </a>  <br><br>
  
 
-  <p>Flutter Skills -</p>
-   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-  <img src="https://res.cloudinary.com/strapi/image/upload/v1621261454/logo_vgoldp.png" alt="flutter" width="40" height="40"/> 
-</a>
- <br><br>
- 
-
    <p>Backend Skills -</p>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
       <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="express" width="40" height="40"/> </a>
@@ -69,7 +60,13 @@ Languages - <br><br>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
          <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <br><br>
-  
+   <p>Flutter Skills -</p>
+   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+  <img src="https://res.cloudinary.com/strapi/image/upload/v1621261454/logo_vgoldp.png" alt="flutter" width="40" height="40"/> 
+</a>
+ <br><br>
   <p>Deployement Skills-</p>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.intuji.com/2022/06/Logo_Vercel-1.jpg" alt="vercel" width="40" height="40"/>
