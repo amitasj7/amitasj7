@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 💫, I'm Amit Sisodiya. </h1>
-<h2 align="center">MERN Stack  and  Flutter  Developer</h2>
+<h2 align="center">MERN Stack   and  Flutter  Developer</h2>
 
 
 
